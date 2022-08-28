@@ -1,0 +1,167 @@
+.nav{
+    float: right;
+    width: 100%;
+}
+
+.nav_items_top li{
+    float: right;
+    list-style-type: none;
+    border-left-style: ridge;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-family: sans-serif;
+    font-size: 2rem;
+    text-decoration: none;
+    color: black;
+}
+
+.nav_items_top a{
+    text-decoration: none;
+    color: black;
+}
+
+#title{
+    font-family: cursive;
+    font-weight: 600;
+    font-size: 2rem;
+}
+
+#home{
+    border-style: none;
+}
+
+#big_box{
+    font-family: 'Times New Roman', Times, serif;
+    color: grey;
+    text-align: center;
+    margin-top: 45px;
+    padding: 50px;
+    border-style: groove;
+}
+
+#about_me{
+    text-align: center;
+    color: brown;
+    font-size: 3rem;
+    font-weight: 400;
+    text-decoration-thickness: 2px;
+    margin-top: 40px;
+    font-family: calibri;
+    text-decoration-line: underline;
+    text-underline-offset: 10px;
+}
+
+#about_para{
+    float: right;
+    width: 50%;
+}
+
+.column{
+    float: left;
+    padding: 5px;
+}
+
+#my_skills{
+    text-align: center;
+    color: brown;
+    font-size: 3rem;
+    font-weight: 400;
+    text-decoration-thickness: 2px;
+    margin-top: 400px;
+    font-family: calibri;
+    text-decoration-line: underline;
+    text-underline-offset: 10px;
+}   
+
+.skills{
+    font-size: 2rem;
+}
+
+#edu{
+    text-align: center;
+    color: brown;
+    font-size: 3rem;
+    font-weight: 400;
+    text-decoration-thickness: 2px;
+    margin-top: 220px;
+    margin-left: 0;
+    font-family: calibri;
+    text-decoration-line: underline;
+    text-underline-offset: 10px;
+}
+
+#edu_items{
+    list-style-type: circle;
+}
+
+#edu_items li{
+    color: grey;
+    font-size: 20px;
+}
+
+#contact{
+    text-align: center;
+    color: black;
+    font-size: 3rem;
+    font-weight: 400;
+    text-decoration-thickness: 2px;
+    margin-top: 70px;
+    margin-left: 0;
+    font-family: calibri;
+    text-decoration-line: underline;
+    text-underline-offset: 10px;
+}
+
+#contact_forms{
+    font-size: 30px;
+    color: grey;
+}
+
+#contact_forms input{
+    margin-left: 30px;
+}
+
+#message_text{
+    margin-left: 20px;
+}
+
+#submit_btn{
+    font-size: 15px;
+}
+
+#footer_nav{
+    float: right;
+    width: 100%;
+    margin-right: 40%;
+}
+
+#footer_items li{
+    float: right;
+    list-style-type: none;
+    border-left-style: ridge;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-family: sans-serif;
+    font-size: 2rem;
+    text-decoration: none;
+    color: black;
+}
+
+#footer_items a{
+    text-decoration: none;
+    color: black;
+}
+
+#final_notes{
+    color: brown;
+    font-size: 20px;
+    font-family: calibri;
+}
+
+#back_to_top{
+    color: brown;
+    font-size: 30px;
+    font-family: calibri;
+    font-weight: 600;
+    text-decoration: none;
+}
